@@ -12,8 +12,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import selecao.seplag.dominio.MovimentacaoProcesso;
-import selecao.seplag.dominio.Orgao;
-import selecao.seplag.dominio.Processo;
 import selecao.seplag.repository.MovimentacaoProcessoRepository;
 
 @RestController
